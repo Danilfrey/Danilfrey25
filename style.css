@@ -3,7 +3,7 @@ margin: 0%;
 font-family: 'Arial', sans-serif;
 }
 .Header{/*стиль для кл header*/
- background-image: url("Изображения/background.jpg");
+ background-image: url("Фото/1671065741_1-zefirka-club-p-fon-dlya-shapki-saita-1 (1).jpg");
 background-size: cover;
 color: white;
 background-color: grey;
@@ -27,9 +27,9 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: red;
+    color: white;
     font-weight: bold;
-    border: 2px solid orange;
+    border: 10px solid grey;
     padding: 9px;
     border-radius: 4px;
  
