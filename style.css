@@ -12,9 +12,9 @@ background-color: light gray;
 text-transform: uppercase;
 }
 .main-menu{
-    font-size: 30px;
+font-size: 20px;
 font-weight: bold;
-padding: 20px 0;
+padding: 15px;
 }
 .main-menu a{/*применение для всех а, входящих в класс main-menu*/
 color: white;
@@ -29,7 +29,7 @@ transition: 0.5s;
     text-decoration: none;
     color: red;
  background-color: grey;
-    font-weight: bold;
+    font-weight: regular;
     border: 9px;
     padding: 9px;
     border-radius: 9px;
