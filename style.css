@@ -1,7 +1,7 @@
 body{
 margin: 0; 
-padding: 0;
- ubuntu-light{
+padding: 0;}
+ .ubuntu-light{
   font-family: "Ubuntu", serif;
   font-weight: 300;
   font-style: normal;
