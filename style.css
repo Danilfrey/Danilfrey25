@@ -28,11 +28,11 @@ transition: 0.5s;
 .btn{
     text-decoration: none;
     color: red;
+ background-color: grey;
     font-weight: bold;
-    border: 15px solid grey;
-    padding: solid gray;
-    border-radius: 15px;
+    border: 9px;
+    padding: 9px;
+    border-radius: 9px;
  
 }
- .footer{/*стиль для footer*/
-  background-size: cover;}
+ 
