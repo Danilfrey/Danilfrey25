@@ -22,19 +22,19 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: light gray;
+color: red;
 transition: 0.5s;
 }
 .btn{
     text-decoration: none;
     color: burgundy;
-    font-weight: regular;
+    font-weight: bold;
     border: 15px solid grey;
     padding: solid gray 15px;
     border-radius: 15px;
  
 }
- .footer{
+ .footer{/*стиль для footer*/
    width: 960px;
   background-size: cover;
 color: black;
