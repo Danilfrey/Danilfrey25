@@ -35,6 +35,7 @@ transition: 0.5s;
  
 }
  .footer{
+   width: 960px;
   background-size: cover;
 color: black;
 background-color: black;}
