@@ -6,7 +6,7 @@ font-family: 'Roboto', sans-serif;
  background-image: url("Фото/1671065741_1-zefirka-club-p-fon-dlya-shapki-saita-1 (1).jpg");
 background-size: cover;
 color: white;
-background-color: grey;
+background-color: light gray;
 }
 .name {
 text-transform: uppercase;
@@ -27,10 +27,10 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: white;
-    font-weight: bold;
+    color: burgundy;
+    font-weight: regular;
     border: 10px solid grey;
-    padding: 9px;
-    border-radius: 4px;
+    padding: 0px;
+    border-radius: 10px;
  
 }
