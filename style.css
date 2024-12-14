@@ -27,12 +27,12 @@ transition: 0.5s;
 }
 .btn{
     text-decoration: none;
-    color: burgundy;
+    color: red;
     font-weight: bold;
     border: 15px solid grey;
-    padding: solid gray 15px;
+    padding: solid gray;
     border-radius: 15px;
  
 }
  .footer{/*стиль для footer*/
-  background-size: 960px;}
+  background-size: cover;}
