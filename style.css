@@ -1,6 +1,9 @@
 body{
 margin: 0%; 
-font-family: "Ubuntu", sans-serif;
+ ubuntu-light{
+  font-family: "Ubuntu", serif;
+  font-weight: 300;
+  font-style: normal;
 }
 .Header{/*стиль для кл header*/
  background-image: url("Фото/1671065741_1-zefirka-club-p-fon-dlya-shapki-saita-1 (1).jpg");
