@@ -35,6 +35,4 @@ transition: 0.5s;
  
 }
  .footer{/*стиль для footer*/
-  background-size: 960px;
-color: black;
-background-color: black;}
+  background-size: 960px;}
