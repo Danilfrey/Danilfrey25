@@ -1,9 +1,6 @@
 body{
 margin: 0%; 
- .ubuntu-light{
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 300;
-  font-style: normal;
+font-family: "Ubuntu", sans-serif;
 }
 .Header{/*стиль для кл header*/
  background-image: url("Фото/1671065741_1-zefirka-club-p-fon-dlya-shapki-saita-1 (1).jpg");
@@ -25,7 +22,7 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: red;
+color: grey;
 transition: 0.5s;
 }
 .btn{
@@ -38,7 +35,6 @@ transition: 0.5s;
  
 }
  .footer{/*стиль для footer*/
-   width: 960px;
-  background-size: cover;
+  background-size: 960px;
 color: black;
 background-color: black;}
