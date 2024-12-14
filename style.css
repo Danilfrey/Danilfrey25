@@ -22,15 +22,15 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: black;
+color: light gray;
 transition: 0.5s;
 }
 .btn{
     text-decoration: none;
     color: burgundy;
     font-weight: regular;
-    border: 10px solid grey;
-    padding: 0px;
-    border-radius: 10px;
+    border: 15px solid grey;
+    padding: solid gray 15px;
+    border-radius: 15px;
  
 }
