@@ -9,7 +9,7 @@ margin: 0%;
  background-image: url("Фото/1671065741_1-zefirka-club-p-fon-dlya-shapki-saita-1 (1).jpg");
 background-size: cover;
 color: white;
-background-color: light gray;
+background-color: light grey;
 }
 .name {
 text-transform: uppercase;
@@ -25,13 +25,13 @@ text-decoration: none;
 }
 
 .main-menu a:hover{
-color: grey;
+color: red;
 transition: 0.5s;
 }
 .btn{
     text-decoration: none;
     color: red;
- background-color: grey;
+ background-color: black;
     font-weight: regular;
     border: 9px;
     padding: 9px;
